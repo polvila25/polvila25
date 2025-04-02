@@ -1,6 +1,6 @@
 ## 💻 Pol Vila - Estudiante de Ingeniería Informática   ##
 
-¡Hola! Soy Pol Vila, estudiante de tercer curso de Ingeniería Informática con experiencia en análisis de datos, desarrollo web, Machine Learning y visión por computador. Me apasiona la tecnología y siempre busco nuevos retos para seguir aprendiendo y creciendo profesionalmente.
+Soy Pol Vila, estudiante de tercer curso de Ingeniería Informática con experiencia en análisis de datos, desarrollo web, Machine Learning y visión por computador. Me apasiona la tecnología y siempre busco nuevos retos para seguir aprendiendo y creciendo profesionalmente.
 
 ### 🚀 Sobre mí
 
